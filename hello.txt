@@ -9,4 +9,4 @@ I love you!
 hello, git! 
 你好！东子哥！
 hello, git!   master-test
-hello, git! 
+hello, git!   hot-fix-test
